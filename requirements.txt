@@ -1,0 +1,4 @@
+aiohttp
+motor
+fastapi
+uvicorn
